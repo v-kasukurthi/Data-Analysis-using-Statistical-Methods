@@ -41,11 +41,19 @@ Execute the Python script in your preferred environment (e.g., Jupyter Notebook,
 **Dependencies**
 
 1.Python 3.x
+
 2.NumPy
+
 3.Pandas
+
 4.Matplotlib
+
 5.Seaborn
+
 6.SciPy
+
 7.Statsmodels
+
 8.Scikit-learn
+
 9.MLxtend
